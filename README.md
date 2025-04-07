@@ -1,6 +1,5 @@
 # react-django-blog-app
 A platform for writing blogs, articles etc.
-[Live](https://bloghub-react.netlify.app/)
 
 ## Technologies
 1. React
